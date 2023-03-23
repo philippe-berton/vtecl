@@ -8,4 +8,8 @@ La datavisualisation, ou visualisation de données, est l'utilisation de différ
   <img src="https://gallica.bnf.fr/ark:/12148/btv1b52504201x/f1.highres" width="400" />
 </p>
 
+Les visualisations sont aujourd'hui utilisés dans de nombreux domaines, et je me suis concentré lors de ma veille technologique avec son rapport aux jeux vidéos.
 
+## Le rapport entre les datavisualisations et les jeux vidéos
+
+Le domaine des jeux vidéos est vaste et il existe différentes visualisation pour chaques catégories de jeux et chaque public visé. En effet le type de visualisation sera différent entre un jeu de tir en première personne et un jeu de stratégie en temps réel. De même, de mmanière claire, différentes visualisation sont utilisé en fonction du public cible, dépendament de ci c'est un joueur jouant au jeu, un spectateur ou un joueur cherchant des ressources pour s'améliorer.
