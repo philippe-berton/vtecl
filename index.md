@@ -6,3 +6,5 @@ La datavisualisation, ou visualisation de données, est l'utilisation de différ
 
 ![image1>](https://gallica.bnf.fr/ark:/12148/btv1b52504201x/f1.highres =100x20)
 
+<img src="[http://....jpg](https://gallica.bnf.fr/ark:/12148/btv1b52504201x/f1.highres)" width="200" height="200" />
+
