@@ -1,4 +1,5 @@
+# Tour d'horizon des usages des NFT
 
-## test de site
-[Lien de l'article](https://github.com/philippe-berton/vtecl/upload) <br/>
-voici le lien de mon github
+## De quoi parle-t-on lorsque l'on dit "datavisualisation"?
+
+La datavisualisation, ou visualisation de données, est l'utilisation de différentes méthodes pour résumer et montrer des liens entre des ensembles de données. Bien qu'avec le développement des big data et l'explosions des quantités de données disponibles les datavisualisation ont grandement évolués, celles-ci existent depuis le 18ème siècle. On a par exemple 
