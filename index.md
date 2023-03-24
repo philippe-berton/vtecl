@@ -29,9 +29,7 @@ Un article traitant de ce sujet a été publié en 2018 [1], des chercheurs ont 
   <img src="https://ars.els-cdn.com/content/image/1-s2.0-S1875952117300435-gr6.jpg" width="400" />
 </p>
 
-<p align="center">
-  <img src="https://ars.els-cdn.com/content/image/1-s2.0-S1875952117300435-gr10.jpg" width="400" />
-</p>
+Pour l'affichage des munition, c'est avec l'affichage (d) que les joueurs ont obtenu les meilleures performances. Cependant cet affichage n'est en général pas cohérent avec l'univers du jeu. On observe ainsi un dilemne apparaissant souvent dans le choix des datavisualisation pour les jeux vidéos, le dilemne **efficacité / immersion**
 
 
 
