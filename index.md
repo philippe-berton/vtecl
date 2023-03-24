@@ -63,7 +63,7 @@ Ou encore des heatmaps :
   <img src="https://i.ibb.co/1TRGhVK/image.png" height="280" />
 </p>
 
-Ces données permettent aux joueur de faire des bilans de leurs parties et de voir les erreurs qu'ils effectuent régulièrement. Un exemple très visuel et proche de visualisations plus traditionnelles est l'exemple des heatmaps précédentes. Sur ces heatmaps, on voit sur une carte, les positions où les joueurs éliminent un autre joueur et les positions où les joueurs se font éliminer. L'utilisateur peut ainsi, en regardant les statistiques sur l'ensemble des joueurs, voir les positions plutôt avantageuses et celles à éviter, et, en regardant les statistiques associés à leurs parties, ils peuvent voir quels endroit de la carte leur font défaut et sur lesquels ils doivent travailler.
+Ces données permettent aux joueur de faire des bilans de leurs parties et de voir les erreurs qu'ils effectuent régulièrement. Un exemple très visuel et proche de visualisations plus traditionnelles est l'exemple des heatmaps précédentes. Sur ces heatmaps, on voit sur une carte, les positions où les joueurs éliminent un autre joueur et les positions où les joueurs se font éliminer. L'utilisateur peut ainsi, en regardant les statistiques sur l'ensemble des joueurs, voir les positions plutôt avantageuses et celles à éviter, et, en regardant les statistiques associés à leurs parties, ils peuvent voir quels endroit de la carte leur font défaut et sur lesquels ils doivent travailler. [4]
 
 # Un deuxième type de jeu : les jeux massivement multijoueurs (MMORPG) à travers l'exemple de World of Warcraft
 
@@ -78,7 +78,7 @@ Ainsi, beaucoup de joueurs vont utiliser des "overlay", ce sont des logiciels ti
 </p>
 
 
-Contrairement aux jeux FPS où les visualisations sont majoritairement faites par des professionels, qu'elles soient destinées à être intégrées au jeu, à être vus par des spectateurs ou à aider les joueurs à progresser, dans les MMORPG, ce sont des joueurs qui créent la plupart des overlay pour améliorer l'expérience de jeu des autres joueurs.
+Contrairement aux jeux FPS où les visualisations sont le plus souvent faites par des professionels, qu'elles soient destinées à être intégrées au jeu, à être vus par des spectateurs ou à aider les joueurs à progresser, dans les MMORPG, ce sont des joueurs qui créent la plupart des overlay pour améliorer l'expérience de jeu des autres joueurs.
 
 ## En dehors du jeu
 
@@ -88,10 +88,19 @@ Dans les MMORPG, les joueurs ont beaucoup d'activités' à faire en parallèle, 
 
 # Bibliographie
 
-[1] : Bowman, B., N. Elmqvist, and T. J. Jankun-Kelly. “Toward Visualization for Games: Theory, Design Space, and Patterns.” IEEE Transactions on Visualization and Computer Graphics 18, no. 11 (November 2012): 1956–68. https://doi.org/10.1109/TVCG.2012.77.
+[1] : Peacocke, Margaree, Robert J. Teather, Jacques Carette, I. Scott MacKenzie, and Victoria McArthur. “An Empirical Comparison of First-Person Shooter Information Displays: HUDs, Diegetic Displays, and Spatial Representations.” Entertainment Computing 26 (May 1, 2018): 41–58. https://doi.org/10.1016/j.entcom.2018.01.003.
 
-[2] : Nombre de téléspectateurs des événements d'esport dans le monde de 2019 à 2024, par engagement du téléspectateur : https://fr.statista.com/statistiques/1307153/audience-mondiale-esport/
+
+[2] : Nombre de téléspectateurs des événements d'esport dans le monde de 2019 à 2024, par engagement du téléspectateur : https://fr.statista.com/statistiques/1307153/audience-mondiale-esport/.
 
 [3] : Joo, Ho-Taek, Sung-Ha Lee, Cheong-mok Bae, and Kyung-Joong Kim. “Learning to Automatically Spectate Games for Esports Using Object Detection Mechanism.” Expert Systems with Applications 213 (March 1, 2023): 118979. https://doi.org/10.1016/j.eswa.2022.118979.
 
-[4] : How does game stats tracker get players stats and display it on the website? : https://www.reddit.com/r/REGames/comments/gwt34s/how_does_game_stats_tracker_get_players_stats_and/
+[4] : Bowman, B., N. Elmqvist, and T. J. Jankun-Kelly. “Toward Visualization for Games: Theory, Design Space, and Patterns.” IEEE Transactions on Visualization and Computer Graphics 18, no. 11 (November 2012): 1956–68. https://doi.org/10.1109/TVCG.2012.77.
+
+[5] : How does game stats tracker get players stats and display it on the website? : https://www.reddit.com/r/REGames/comments/gwt34s/how_does_game_stats_tracker_get_players_stats_and/.
+
+[6] : Bucchieri, Federica, Yao, Lijie, and Isenberg, Petra. “Situated Visualization in Motion for Video Games,” 2022, 3 pages. https://petra.isenberg.cc/publications/papers/Bucchieri_2022_VIM-VideoGames.pdf.
+
+
+
+
