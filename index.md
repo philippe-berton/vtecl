@@ -57,13 +57,13 @@ Les visualisation en dehors du jeu regroupent toutes les visualisations faites p
   <img src="https://i.ibb.co/Z64B59m/image.png" height="200" />
 </p>
 
-Ou encore des heatman : 
+Ou encore des heatmaps : 
 
 <p align="center">
-  <img src="https://i.ibb.co/1TRGhVK/image.png" height="200" />
+  <img src="https://i.ibb.co/1TRGhVK/image.png" height="280" />
 </p>
 
-
+Ces données permettent aux joueur de faire des bilans de leurs parties et de voir les erreurs qu'ils effectuent régulièrement. Un exemple très visuel et proche de visualisations plus traditionnelles est l'exemple des heatmaps précédentes. Sur ces heatmaps, on voit sur une carte, les positions où les joueurs éliminent un autre joueur et les positions où les joueurs se font éliminer. L'utilisateur peut ainsi, en regardant les statistiques sur l'ensemble des joueurs, voir les positions plutôt avantageuses et celles à éviter, et, en regardant les statistiques associés à leurs parties, ils peuvent voir quels endroit de la carte leur font défaut et sur lesquels ils doivent travailler.
 
 
 
