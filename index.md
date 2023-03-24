@@ -34,7 +34,7 @@ Pour l'affichage des munition, c'est avec l'affichage (d) que les joueurs ont ob
 Pour les FPS, le temps de réaction est très important, ainsi que le champ de vision du joueur. Les jeux actuel utilisent donc des HUD plutot simple, rapide à comprendre et on observe une uniformisation de ceux ci comme on le voit dans l'image suivante donnant les points de vie dans différents jeux : 
 
 <p align="center">
-  <img src="https://i.ibb.co/qpVf0wn/image.png" height="100" />
+  <img src="https://i.ibb.co/XDGC3St/image.png" height="100" />
 </p>
 
 Cette uniformisation est expliquée par l'efficacité de cette visualisation mais également car les joueurs sont habitués à ces affichages et s'habitueront donc plus facilement à un nouveau jeu si il reprend les codes existants. Au contraire, certains jeux choisissent de changer de style d'affichage ou même de supprimer certaines informations, voir toutes les informations disponibles afin d'avoir une immersion maximale ou de rendre le jeu plus difficile. 
@@ -44,7 +44,7 @@ Cette uniformisation est expliquée par l'efficacité de cette visualisation mai
 Pour les spectateurs, les informations peuvent être plus lentes à assimiler mais elles ne doivent pas l'empêcher de rater une action. Lors des rediffusion de parties, on a donc plus d'informations affichées, comme par exemple des informations sur tous les joueurs des deux équipes au lieu d'avoir uniquement les informations du joueur que l'on suit. D'autres visualisations plus complexes sont développés comme par exemple dans l'exemple de Counter strike : Global offensive, de nouveaux point de vue fixes ou mobiles, permettant de voir une action dans sa globalitée au lieu de suivre un joueur et de changer de joueur. 
 
 <p align="center">
-  <img src="https://i.ibb.co/VqSMz38/image.png" height="100" />
+  <img src="https://i.ibb.co/VqSMz38/image.png" height="200" />
 </p>
 
 Aujourd'hui, ce sont des humains qui choisissent quel point de vue afficher pendant que d'autres humains commentent la partie. Cependant, 
