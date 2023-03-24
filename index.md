@@ -22,7 +22,7 @@ Le domaine des jeux vidéos est vaste et il existe différentes visualisation po
 
 Dans les FPS classiques, les informations les plus intéressantes à avoir pour le joueur sont la quantité de point de vie qu'il possède et le nombre de balles qu'il a. On peut donc s'interesser à comment ces quantités sont donnés aux joueurs. 
 
-Un article traitant de ce sujet a été publié en 2018 [1], des chercheurs ont fait une expériences avec des joueurs de jeux vidéos, et ont testés les performances de ceux ci, en utilisant différentes visualisation pour les point de vies et pour l'affichage des balles : 
+Un article traitant de ce sujet a été publié en 2018 [1], des chercheurs ont fait une expériences avec des joueurs de jeux vidéos, et ont testés les performances de ceux ci, en utilisant différentes visualisation pour les point de vies et pour les munitions : 
 
 
 <p align="center">
@@ -51,7 +51,7 @@ Aujourd'hui, ce sont des humains qui choisissent quel point de vue afficher pend
 
 ### Les visualisation en dehors du jeu (exemple de Counter strike : Global offensive)
 
-Les visualisation en dehors du jeu regroupent toutes les visualisations faites pour les joueurs ou autres personnes s'interessant à un jeu donné, qui aident ces personnes à comprendre le jeu ou à progresser sur celui ci. Ce sont celles-ci qui ressemblent le plus à des data visualization classique. Dans 
+Les visualisation en dehors du jeu regroupent toutes les visualisations faites pour les joueurs ou autres personnes s'interessant à un jeu donné, qui aident ces personnes à comprendre le jeu ou à progresser sur celui ci. Ce sont celles-ci qui ressemblent le plus à des data visualization classique. Ces informations peuvent être données par des sites tiers ou par les éditeurs du jeu vidéo, soit à l'aide d'API donnant un accès à des données du jeu et développés par l'éditeur, ou alors à l'aide de programmes tiers permettant de récupérer ces données [4].
 
 
 # Bibliographie
@@ -61,3 +61,5 @@ Les visualisation en dehors du jeu regroupent toutes les visualisations faites p
 [2] : Nombre de téléspectateurs des événements d'esport dans le monde de 2019 à 2024, par engagement du téléspectateur : https://fr.statista.com/statistiques/1307153/audience-mondiale-esport/
 
 [3] : Joo, Ho-Taek, Sung-Ha Lee, Cheong-mok Bae, and Kyung-Joong Kim. “Learning to Automatically Spectate Games for Esports Using Object Detection Mechanism.” Expert Systems with Applications 213 (March 1, 2023): 118979. https://doi.org/10.1016/j.eswa.2022.118979.
+
+[4] : How does game stats tracker get players stats and display it on the website? : https://www.reddit.com/r/REGames/comments/gwt34s/how_does_game_stats_tracker_get_players_stats_and/
