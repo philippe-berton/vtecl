@@ -7,7 +7,7 @@
 La datavisualisation, ou visualisation de données, est l'utilisation de différentes méthodes pour résumer et montrer des liens entre des ensembles de données. Bien qu'avec le développement des big data et l'explosions des quantités de données disponibles les datavisualisation ont grandement évolués, celles-ci existent depuis le 18ème siècle. On a par exemple l'exemple suivant d'une visualisaton faite en 1869 par Charles Minard.
 
 <p align="center">
-  <img src="https://gallica.bnf.fr/ark:/12148/btv1b52504201x/f1.highres" width="400" />
+  <img src="https://gallica.bnf.fr/ark:/12148/btv1b52504201x/f1.highres" height="700" />
 </p>
 
 Les visualisations sont aujourd'hui utilisés dans de nombreux domaines, et je me suis concentré lors de ma veille technologique avec son rapport aux jeux vidéos.
@@ -26,11 +26,10 @@ Un article traitant de ce sujet a été publié en 2018 [1], des chercheurs ont 
 
 
 <p align="center">
-  <img src="https://ars.els-cdn.com/content/image/1-s2.0-S1875952117300435-gr6.jpg" width="400" />
+  <img src="https://ars.els-cdn.com/content/image/1-s2.0-S1875952117300435-gr6.jpg" height="200" />
 </p>
 
 Pour l'affichage des munition, c'est avec l'affichage (d) que les joueurs ont obtenu les meilleures performances. Cependant cet affichage n'est en général pas cohérent avec l'univers du jeu. On observe ainsi un dilemne apparaissant souvent dans le choix des datavisualisation pour les jeux vidéos, le dilemne **efficacité / immersion**
-
 
 
 
