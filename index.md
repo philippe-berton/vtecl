@@ -51,7 +51,20 @@ Aujourd'hui, ce sont des humains qui choisissent quel point de vue afficher pend
 
 ### Les visualisation en dehors du jeu (exemple de Counter strike : Global offensive)
 
-Les visualisation en dehors du jeu regroupent toutes les visualisations faites pour les joueurs ou autres personnes s'interessant à un jeu donné, qui aident ces personnes à comprendre le jeu ou à progresser sur celui ci. Ce sont celles-ci qui ressemblent le plus à des data visualization classique. Ces informations peuvent être données par des sites tiers ou par les éditeurs du jeu vidéo, soit à l'aide d'API donnant un accès à des données du jeu et développés par l'éditeur, ou alors à l'aide de programmes tiers permettant de récupérer ces données [4].
+Les visualisation en dehors du jeu regroupent toutes les visualisations faites pour les joueurs ou autres personnes s'interessant à un jeu donné, qui aident ces personnes à comprendre le jeu ou à progresser sur celui ci. Ce sont celles-ci qui ressemblent le plus à des data visualization classique. Les informations peuvent être données par des sites tiers ou par les éditeurs du jeu vidéo, soit à l'aide d'API donnant un accès à des données du jeu et développés par l'éditeur, ou alors à l'aide de programmes tiers permettant de récupérer ces données [4]. Dans le cas de Counter strike : Global offensive, le site de référence dans ce domaine et csgostats.gg. Ce site permet aux utilisateurs de lier leurs comptes de jeu, puis de suivres les statistiques de leurs parties ou des parties des autres joueurs. Parmis les visualisations qu'ils proposent, on peut voir des dashboard contenant de nombreuses statistiques sur les parties d'un joueur : 
+
+<p align="center">
+  <img src="https://i.ibb.co/Z64B59m/image.png" height="200" />
+</p>
+
+Ou encore des heatman : 
+
+<p align="center">
+  <img src="https://i.ibb.co/1TRGhVK/image.png" height="200" />
+</p>
+
+
+
 
 
 # Bibliographie
