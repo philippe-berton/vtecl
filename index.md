@@ -1,10 +1,10 @@
-# Datavisualisation et jeux vidéos
+# Data visualization et jeux vidéos
 
 ## Introduction
 
-### De quoi parle-t-on lorsque l'on dit "datavisualisation"?
+### De quoi parle-t-on lorsque l'on dit "data visualization"?
 
-La datavisualisation, ou visualisation de données, est l'utilisation de différentes méthodes pour résumer et montrer des liens entre des ensembles de données. Bien qu'avec le développement des big data et l'explosions des quantités de données disponibles les datavisualisation ont grandement évolués, celles-ci existent depuis le 18ème siècle. On a par exemple l'exemple suivant d'une visualisaton faite en 1869 par Charles Minard.
+La data visualization, ou visualisation de données, est l'utilisation de différentes méthodes pour résumer et montrer des liens entre des ensembles de données. Bien qu'avec le développement des big data et l'explosions des quantités de données disponibles les data visualization ont grandement évolués, celles-ci existent depuis le 18ème siècle. On a par exemple l'exemple suivant d'une visualisaton faite en 1869 par Charles Minard.
 
 <p align="center">
   <img src="https://gallica.bnf.fr/ark:/12148/btv1b52504201x/f1.highres" height="500" />
@@ -12,7 +12,7 @@ La datavisualisation, ou visualisation de données, est l'utilisation de différ
 
 Les visualisations sont aujourd'hui utilisées dans de nombreux domaines, et je me suis concentré lors de ma veille technologique avec son rapport aux jeux vidéos.
 
-### Le rapport entre les datavisualisations et les jeux vidéos
+### Le rapport entre les data visualizations et les jeux vidéos
 
 Le domaine des jeux vidéos est vaste et il existe différentes visualisation pour chaques catégories de jeux et chaque public visé. En effet le type de visualisation sera différent entre un jeu de tir en première personne et un jeu de stratégie en temps réel. De même, de manière claire, différentes visualisation sont utilisé en fonction du public cible, dépendament de si c'est un joueur jouant au jeu, un spectateur ou un joueur cherchant des ressources pour s'améliorer. En effet, l'e-sport s'est grandement développé ces dernières années et est aujourd'hui regardée par plus de 400 millions de personnes régulièrement [2]. Ce nombre de spectateur grandissant insite les développeurs des jeux à améliorer leurs mode spectateur, et également à développer des visualisation spécialement pour les grandes compétitions, qui ne sont disponibles que lors d'une retransmission. Ce développement de l'e-sport a également augmenté le nombre de joueur essayant de s'améliorer, que ce soit pour essayer de devenir professionnel, ou simplement pour une satisfaction personnelle. Ainsi un grand nombre de visualisation sont apparues pour suivre des statistiques sur ses parties ou sur les parties des autres joueurs, afin de faire progresser les joueurs souhaitant se renseigner sur le jeu.
 
@@ -29,7 +29,7 @@ Un article traitant de ce sujet a été publié en 2018 [1], des chercheurs ont 
   <img src="https://ars.els-cdn.com/content/image/1-s2.0-S1875952117300435-gr6.jpg" height="100" />
 </p>
 
-Pour l'affichage des munition, c'est avec l'affichage (d) que les joueurs ont obtenu les meilleures performances. Cependant cet affichage n'est en général pas cohérent avec l'univers du jeu. On observe ainsi un dilemne apparaissant souvent dans le choix des datavisualisation pour les jeux vidéos, le dilemne **efficacité / immersion**.
+Pour l'affichage des munition, c'est avec l'affichage (d) que les joueurs ont obtenu les meilleures performances. Cependant cet affichage n'est en général pas cohérent avec l'univers du jeu. On observe ainsi un dilemne apparaissant souvent dans le choix des data visualization pour les jeux vidéos, le dilemne **efficacité / immersion**.
 
 Pour les FPS, le temps de réaction est très important, ainsi que le champ de vision du joueur. Les jeux actuel utilisent donc des HUD plutot simple, rapide à comprendre et on observe une uniformisation de ceux ci comme on le voit dans l'image suivante donnant les points de vie dans différents jeux : 
 
@@ -39,15 +39,19 @@ Pour les FPS, le temps de réaction est très important, ainsi que le champ de v
 
 Cette uniformisation est expliquée par l'efficacité de cette visualisation mais également car les joueurs sont habitués à ces affichages et s'habitueront donc plus facilement à un nouveau jeu si il reprend les codes existants. Au contraire, certains jeux choisissent de changer de style d'affichage ou même de supprimer certaines informations, voir toutes les informations disponibles afin d'avoir une immersion maximale ou de rendre le jeu plus difficile. 
 
-### Pour un spectateur (exemple de Counter strike : Global offensive)
+### Les visualisation pour un spectateur (exemple de Counter strike : Global offensive)
 
-Pour les spectateurs, les informations peuvent être plus lentes à assimiler mais elles ne doivent pas l'empêcher de rater une action. Lors des rediffusion de parties, on a donc plus d'informations affichées, comme par exemple des informations sur tous les joueurs des deux équipes au lieu d'avoir uniquement les informations du joueur que l'on suit. D'autres visualisations plus complexes sont développés comme par exemple dans l'exemple de Counter strike : Global offensive, de nouveaux point de vue fixes ou mobiles, permettant de voir une action dans sa globalitée au lieu de suivre un joueur et de changer de joueur. 
+Pour les spectateurs, les informations peuvent être plus lentes à assimiler mais elles ne doivent pas l'empêcher de rater une action. Lors des rediffusion de parties, on a donc plus d'informations affichées, comme par exemple des informations sur tous les joueurs des deux équipes au lieu d'avoir uniquement les informations du joueur que l'on suit. D'autres visualisations plus complexes sont développés comme par exemple dans l'exemple de Counter strike : Global offensive, de nouveaux point de vue fixes ou mobiles, permettant de voir une action dans sa globalitée au lieu de suivre un joueur et de changer de joueur. On voit par exemple ci-après, la différence entre ce que voit un joueur et un spectateur dans la même situation (le spectateur à gauche et le joueur à droite).
 
 <p align="center">
   <img src="https://i.ibb.co/VqSMz38/image.png" height="200" />
 </p>
 
-Aujourd'hui, ce sont des humains qui choisissent quel point de vue afficher pendant que d'autres humains commentent la partie. Cependant, 
+Aujourd'hui, ce sont des humains qui choisissent quel point de vue afficher pendant que d'autres humains commentent la partie. Cependant, cette méthode n'est pas suffisante lorsque les joueurs sont réparties sur toute la carte, et des actions sont régulièrements ratés par ces humains. Des chercheurs ont apporté une réponse en proposant d'utiliser de l'IA pour automatiser le déplacement du point de vue [3].
+
+### Les visualisation en dehors du jeu (exemple de Counter strike : Global offensive)
+
+Les visualisation en dehors du jeu regroupent toutes les visualisations faites pour les joueurs ou autres personnes s'interessant à un jeu donné, qui aident ces personnes à comprendre le jeu ou à progresser sur celui ci. Ce sont celles-ci qui ressemblent le plus à des data visualization classique. Dans 
 
 
 # Bibliographie
