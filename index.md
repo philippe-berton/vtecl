@@ -20,7 +20,9 @@ Le domaine des jeux vidéos est vaste et il existe différentes visualisation po
 
 ### Pour un joueur
 
-Dans les FPS classiques, les informations les plus intéressantes à avoir pour le joueur sont la quantité de point de vie qu'il possède et le nombre de balles qu'il a. On peut donc s'interesser à comment ces quantités sont donnés aux joueurs. Un article traitant de ce sujet a été publié en 2018 [1], des chercheurs ont fait une expériences avec des joueurs de jeux vidéos, et ont testés les performances de ceux ci, en utilisant différentes visualisation pour les point de vies et pour l'affichage des balles : 
+Dans les FPS classiques, les informations les plus intéressantes à avoir pour le joueur sont la quantité de point de vie qu'il possède et le nombre de balles qu'il a. On peut donc s'interesser à comment ces quantités sont donnés aux joueurs. 
+
+Un article traitant de ce sujet a été publié en 2018 [1], des chercheurs ont fait une expériences avec des joueurs de jeux vidéos, et ont testés les performances de ceux ci, en utilisant différentes visualisation pour les point de vies et pour l'affichage des balles : 
 
 
 <p align="center">
