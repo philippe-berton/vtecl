@@ -41,7 +41,7 @@ Cette uniformisation est expliquée par l'efficacité de cette visualisation mai
 
 ### Pour un spectateur (exemple de Counter strike : Global offensive)
 
-
+Pour les spectateurs, les informations peuvent être plus lentes à assimiler mais elles ne doivent pas l'empêcher de rater une action. 
 
 
 # Bibliographie
@@ -49,3 +49,5 @@ Cette uniformisation est expliquée par l'efficacité de cette visualisation mai
 [1] : Bowman, B., N. Elmqvist, and T. J. Jankun-Kelly. “Toward Visualization for Games: Theory, Design Space, and Patterns.” IEEE Transactions on Visualization and Computer Graphics 18, no. 11 (November 2012): 1956–68. https://doi.org/10.1109/TVCG.2012.77.
 
 [2] : Nombre de téléspectateurs des événements d'esport dans le monde de 2019 à 2024, par engagement du téléspectateur : https://fr.statista.com/statistiques/1307153/audience-mondiale-esport/
+
+[3] : Joo, Ho-Taek, Sung-Ha Lee, Cheong-mok Bae, and Kyung-Joong Kim. “Learning to Automatically Spectate Games for Esports Using Object Detection Mechanism.” Expert Systems with Applications 213 (March 1, 2023): 118979. https://doi.org/10.1016/j.eswa.2022.118979.
