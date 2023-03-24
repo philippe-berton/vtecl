@@ -34,7 +34,7 @@ Pour l'affichage des munition, c'est avec l'affichage (d) que les joueurs ont ob
 Pour les FPS, le temps de réaction est très important, ainsi que le champ de vision du joueur. Les jeux actuel utilisent donc des HUD plutot simple, rapide à comprendre et on observe une uniformisation de ceux ci comme on le voit dans l'image suivante donnant les points de vie dans différents jeux : 
 
 <p align="center">
-  <img src="https://ibb.co/7KL5gFz" height="100" />
+  <img src="https://i.ibb.co/qpVf0wn/image.png" height="100" />
 </p>
 
 Cette uniformisation est expliquée par l'efficacité de cette visualisation mais également car les joueurs sont habitués à ces affichages et s'habitueront donc plus facilement à un nouveau jeu si il reprend les codes existants. Au contraire, certains jeux choisissent de changer de style d'affichage ou même de supprimer certaines informations, voir toutes les informations disponibles afin d'avoir une immersion maximale ou de rendre le jeu plus difficile. 
