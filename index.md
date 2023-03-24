@@ -41,7 +41,13 @@ Cette uniformisation est expliquée par l'efficacité de cette visualisation mai
 
 ### Pour un spectateur (exemple de Counter strike : Global offensive)
 
-Pour les spectateurs, les informations peuvent être plus lentes à assimiler mais elles ne doivent pas l'empêcher de rater une action. 
+Pour les spectateurs, les informations peuvent être plus lentes à assimiler mais elles ne doivent pas l'empêcher de rater une action. Lors des rediffusion de parties, on a donc plus d'informations affichées, comme par exemple des informations sur tous les joueurs des deux équipes au lieu d'avoir uniquement les informations du joueur que l'on suit. D'autres visualisations plus complexes sont développés comme par exemple dans l'exemple de Counter strike : Global offensive, de nouveaux point de vue fixes ou mobiles, permettant de voir une action dans sa globalitée au lieu de suivre un joueur et de changer de joueur. 
+
+<p align="center">
+  <img src="https://i.ibb.co/VqSMz38/image.png" height="100" />
+</p>
+
+Aujourd'hui, ce sont des humains qui choisissent quel point de vue afficher pendant que d'autres humains commentent la partie. Cependant, 
 
 
 # Bibliographie
